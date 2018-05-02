@@ -1,0 +1,2 @@
+# vsbot
+vs store bot
